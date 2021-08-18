@@ -1,0 +1,15 @@
+canvas#tree
+{
+    outline: none;
+    border: none;
+}
+canvas
+{
+    position: absolute;
+    top: 75px;
+    left: 430px;
+}
+*
+{
+    background-color: white;
+}
